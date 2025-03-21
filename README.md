@@ -9,7 +9,7 @@ El ensayo interactivo **"Fanfic Ships"** explora cómo los aficionados a la lite
 
 Además, el ensayo hace uso de visualizaciones interactivas para que los usuarios puedan explorar las tendencias y los "ships" más populares dentro de diferentes fandoms.
 
-![foto](CECILIA/fototarea-01.png)
+![foto](https://github.com/corueta/CECILIA/blob/71f5c5bb5372cd1a5d9fe8ed29b2fbbb7075f05e/fototarea-01.png)
 
 
 ## ¿Por qué me pareció interesante?
